@@ -1,0 +1,684 @@
+body {
+    background-color: #FDFDFD;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+button{
+    border: none;
+}
+.ketto-image {
+    width: 7%;
+    margin-right: 20px;
+}
+
+.nav-text {
+    vertical-align: bottom;
+    margin: 20px 0px 0px 20px;
+}
+
+.nav-currency {
+    float: right;
+    vertical-align: bottom;
+    margin-top: 18px;
+}
+
+.currency {
+    height: 30px;
+    width: 55px;
+    border-radius: 14px;
+    padding: 0px 18px 0px 6px;
+    background-color: #F5F5F5;
+    margin-right: 25px;
+}
+
+.fund-needed {
+    height: 31px;
+    width: 32%;
+    border: 1px solid none;
+    text-align: right;
+    border-radius: 25px;
+    margin: 30px auto 0;
+    background-color: #FFF2E4;
+}
+
+.help-devika {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 20px 0 23px;
+    line-height: 1.1;
+}
+
+.slide-image {
+    height: 425px;
+}
+
+.devika-image {
+    width: 23%;
+}
+
+.carousel-wrapper{
+    max-height: 420px;
+    overflow: hidden;
+}
+.share-icon {
+    font-size: 19px;
+    padding-right: 40px;
+}
+
+.share-fundraiser {
+    color: #01BFBD;
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    margin: 9px;
+    width: 100%;
+    box-shadow: 0 1px 6px 0 rgb(0 0 0 / 20%);
+}
+
+.share-fundraiser:hover {
+    background-color: #01BFBD;
+    color: white;
+    border: none;
+}
+
+
+.about {
+    width: 21%;
+
+}
+
+.document {
+    width: 23%;
+
+}
+
+.comments {
+    width: 30%;
+}
+
+.updates {
+    width: 22%;
+}
+
+.icon-css {
+    font-size: 24px;
+    padding-right: 9px;
+}
+
+.about-image1 {
+    margin: 5px auto;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+/* .about-devika {
+    margin: 15px auto;
+    padding: 20px;
+} */
+
+.ask-update-section {
+    background-color: #F5F5F5;
+    padding: 35px;
+    margin: 20px 0px 20px 0px;
+}
+
+.ask {
+    background-color: white;
+    color: #01BFBD;
+    height: 45px;
+    border-radius: 6px;
+}
+
+.here {
+    font-weight: 600;
+    color: rgb(87, 109, 168);
+}
+
+.thank {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #444;
+    margin: 20px auto 10px;
+}
+
+.donar-name{
+    border: 1px solid black;
+    width: 110%;
+    padding: 5px;
+    height: 37px;
+    text-align: center;
+    background-color:#f2f2f2;
+    border-radius: 38px;
+    display: inline-block;
+}
+.time{
+    color: #999;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+}
+.devika-name{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.ketto-link{
+color: #01BFBD;
+}
+.spreadthewordsection{
+    background-color: #DFE6F3;
+}
+.spreadtheword{
+    padding: 20px;
+}
+.spreadtheword-text{
+    font-size: 11px;
+}
+.spread{
+    background-color:rgb(59, 89, 152);
+    color: white;
+    width: 97%;
+    height: 43px;
+    padding: 8px;
+}
+}
+.facebook-icon{
+font-size: 20px;
+padding-right: 15px;
+}
+.comment-update{
+    color: rgb(59, 89, 152);
+}
+.comment-icon{
+    color: #ccc;
+    margin-right: 14px;
+}
+textarea{
+    border: deeppink;
+    width: 100%;
+     resize: none;
+    border-radius: 28px;
+    background-color: #fbfbfb;
+    box-shadow: inset 0 1px 4px 0 rgb(0 0 0 / 10%); 
+    height: 50px;
+    padding: 15px 20px;
+    font-size: 13px;
+}
+.contribute{
+    background-color: #01BFBD;
+    height: 80px;
+    border: none;
+    width: 100%;
+    font-size: 24px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+.contribute:hover{
+    background-color: #019997;
+}
+
+.credit{
+    display: inline-block;
+    font-size: 10px;
+    width: 20%;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+.banktransfer{
+    display: inline-block;
+    font-size: 10px;
+    width: 25%;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+.banktransfer-icon{
+    font-size: 15px;
+    color: #ccc;
+}
+.list{
+    margin: 20px auto;
+}
+.rightsideshare{
+    background-color:rgb(59, 89, 152);
+    color: white;
+    width: 97%;
+    height: 60px;
+    padding: 0px;
+}
+em{
+    font-size: 14px;
+}
+.money-raised{
+    font-size: 42px;
+    font-weight: 500;
+    margin: 10px auto;
+}
+.raised{
+    opacity: 0.6;
+}
+.supporter-section{
+    margin: 5px auto;
+}
+.supporters{
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.compaigner-section{
+    border-radius: 10px;
+    margin-top: 15px;
+    padding: 20px;
+    position: relative;
+}
+
+.compaigner-contact{
+    color: #007de1;
+    position: absolute;
+    right: 10px;
+    font-weight: 600;
+    margin-top: -10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.compaigner-lettertext{
+    border: none;
+    padding: 11px;
+    color: #01BFBD;
+
+    background-color: #f2f2f2;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    width: 45px;
+    border-radius: 50%;
+}
+.compaigner{
+    font-weight: 700;
+    font-size: 14px;
+    margin: 0 0 5px;
+    display: block;
+    opacity: 0.4;
+}
+.compaigner-name{
+    font-size: 13px;
+    margin: 0px;
+    color: blue;
+    font-weight: 700;
+    
+}
+.compaigner-location{
+    margin-bottom: 1px;
+    font-size: 13px;
+    color: #999;
+}
+
+
+.nav-tabs li{
+    vertical-align: bottom;
+    cursor: pointer;
+}
+
+#documents,
+#latest,
+#about-read-more-section{
+    display: none;
+}
+
+.tabs-body{
+    box-shadow: 0 6px 20px 0 rgb(0 0 0 / 10%);
+    -webkit-box-shadow: 0 6px 20px 0 rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.cu-tab{
+    padding: 12px 0;
+    text-align: center;
+}
+
+.nav-tabs .active{
+    border-bottom: 3px solid #01BFBD;
+}
+
+.about-read-more{
+    margin-top: 25px;
+    max-width: 365px;
+    width: 90%;
+    height: 42px;
+    min-width: 200px;
+    font-size: 16px;
+    color: #01BFBD;
+    font-weight: 600;
+    box-shadow: 0 2px 10px 0 rgb(0 0 0 / 10%);
+    background-color: #fff;
+    border: none;
+}
+
+
+
+.user-image{
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: #01bfbd;
+    width: 58px;
+}
+
+.each-comment{
+    padding: 15px 10px;
+}
+
+.show-more{
+    height: 40px;
+    min-width: 213px;
+    border-radius: 45px;
+    font-size: 16px;
+    color: #01BFBD;
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 20%), 0px 0px 0px 0px rgb(0 0 0 / 14%), 0px 0px 0px 0px rgb(0 0 0 / 12%);
+    border: 1px;
+    border: 1px solid   rgba(0, 0, 0, 0.12);
+    background-color: #fff;
+}
+
+.show-more:hover{
+    background-color: #f2f2f2;
+}
+
+.bottom-section{
+    margin-top: 120px;
+}
+
+.chat-button:hover,
+.chat-button{
+    color: #fff;
+    font-weight: 700;
+    font-size: 17px;
+    width: 172px;
+    border-radius: 42px;
+    background-color: #354f84;
+    padding: 12px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.chat-button.whatsapp-color{
+    background-color: #13cb6a;
+}
+
+.report-button{
+    color: #2c74b1;
+    line-height: 1.59;
+    border: 1px solid #2c74b1;
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 6px 12px;
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 20%), 0px 0px 0px 0px rgb(0 0 0 / 14%), 0px 0px 0px 0px rgb(0 0 0 / 12%);
+    margin: 40px 0 20px;
+    background-color: transparent;
+}
+
+.disclaimer{
+    color: #999;
+    font-size: 14px;
+    margin-bottom: 10px;
+    max-width: 730px;
+    padding: 10px 0;
+}
+
+.payment-methods li{
+    background-image: url(https://d1vdjc70h9nzd9.cloudfront.net/images/payment_gateways/paymentoptions.svg);
+    background-size: auto;
+    height: 33px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.credit-debit{   
+    background-position: 0 112px;
+    width: 97px;
+}
+
+.netbank{
+    background-position: -102px 112px;
+    width: 76px;
+}
+
+.paytm-wallets{
+    background-position: -272px 112px;    
+    width: 78px;
+    margin-right: 6px;
+}
+
+.bank-transfer{
+    background-position: -182px 112px;
+    width: 80px;
+}
+
+.cu-progress{
+    height: 12px;
+}
+
+.cu-progress .progress-bar{
+    background-color: #01BFBD;
+}
+
+
+.cu-box{
+    box-shadow: 0 6px 40px 0 rgb(0 0 0 / 10%);
+    -webkit-box-shadow: 0 6px 40px 0 rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+
+.fund-team-head{
+    padding: 16px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: auto;
+    color: #444;
+    border-bottom: 2px solid #d8d8d8;
+}
+
+
+.add-icon{
+    flex-shrink: 0;
+    height: 48px;
+    width: 48px;
+    border: 1px solid #d7efef;
+    border-radius: 50%;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.fund-team-content{
+    padding: 20px;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.start-fund-text{
+    font-size: 17px;
+    padding-left: 20px;
+}
+
+.fa-chevron-right:before{
+    margin-left: 10px;
+}
+
+
+.each-donor{
+    padding: 10px 20px 10px;
+}
+
+.donated-money{
+    margin-left: 40px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #01BFBD;
+    white-space: nowrap;
+    -webkit-text-fill-color: #01BFBD;
+}
+
+.donor-name{
+    font-size: 17px;
+    color: #444;
+    line-height: 24px;
+    text-transform: capitalize;
+}
+#social-more-donors,
+#more-donors{
+    display: none;
+}
+
+.donor-more-button{
+    font-size: 14px;
+    font-weight: 600;
+    color: #01BFBD;
+    cursor: pointer;
+    margin: 10px 0 0;
+    background-color: transparent;
+}
+
+.donors-section{
+    padding-bottom: 10px;
+}
+
+
+.dropdown-toggle::after{
+    display: none;
+}
+
+.social-icon-share{
+    background-repeat: no-repeat;
+    display: inline-block;
+    fill: currentColor;
+    height: 24px;
+    background-color: rgb(19, 203, 106);
+    width: 24px;
+    text-align: center;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.each-share{
+    padding: 0 10px;
+    margin-bottom: 10px;
+}
+
+
+.facebook-color{
+    background-color: rgb(59, 89, 152);
+}
+
+
+.whatsapp-text-color{
+    color: rgb(19, 203, 106);
+}
+
+
+.facebook-text-color{
+    color: rgb(59, 89, 152);
+}
+
+.linkedin-text-color{
+    color: rgb(0, 119, 181);
+}
+
+.twitter-text-color{
+    color: rgb(44, 153, 215);
+}
+
+.linkedin-color{
+    background-color: rgb(0, 119, 181);
+}
+
+.twitter-color{
+    background-color: rgb(44, 153, 215);
+}
+
+
+.contribute-modal-head{
+    background: #f7f8f8;
+    padding: 20px;
+}
+
+.modal-back-icon{
+    margin-top: 7px;
+    margin-right: 20px;
+}
+
+.modal-money-suggest{
+    font-weight: 400;
+    font-style: italic;
+    color: #888;
+    font-size: 12px;
+}
+
+.camp-modal-title{
+    font-weight: 700;
+    font-size: 20px;
+    /* padding: 14px 0; */
+    color: #01BFBD;
+    margin: 0 auto;
+}
+
+
+.money-tab{
+    box-shadow: 0 2px 10px 0 rgb(0 0 0 / 10%);
+    -moz-box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
+    border: 1px solid #e6e7e8!important;
+    border-radius: 55px;
+    color: #444;
+    min-width: 100px;
+    margin-right: 5px;
+    background-color: transparent;
+    padding: 5px;
+}
+
+.primary-color{
+    background-color: #01BFBD;
+}
+
+.primary-color:hover{
+    background-color: #01BFBD;
+}
+.money-tab:hover{
+    background-color: #c2dbdb;
+}
+
+.money-tab.active{
+    background-color: #01BFBD;
+}
+
+.error-message{
+    color: #f00;;
+}
+
+.donation-success-text{
+    margin: 0;
+    font-size: 20px;
+    margin-top: 12px;
+    color: green;
+}
